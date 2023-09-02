@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm eran</h1>
-<h3 align="center">Minecraft plugin developer and enjoys dealing with data science</h3>
+<h3 align="center">Minecraft plugin developer and enjoys dealing with data </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spigel1&label=Profile%20views&color=0e75b6&style=flat" alt="spigel1" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…3rAcOFHFQCJXmZBhIe3eo37jWoD2Uw2SPW43gy34&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💬 Ask me about **Python, Minecraft , Java**
 
