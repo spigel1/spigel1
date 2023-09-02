@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm eran</h1>
-<h3 align="center">Minecraft plugin developer and enjoys dealing with data </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spigel1&label=Profile%20views&color=0e75b6&style=flat" alt="spigel1" /> </p>
+<h1 align="center">Hi 👋, I'm eran spigel!</h1>
+<h3 align="center">Minecraft plugin developer and enjoys dealing with data science</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+- 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **Python, Minecraft , Java**
 
@@ -11,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/eran spigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eran spigel" height="30" width="40" /></a>
+<a href="mailto:eranspigel@gmail.com">
+<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail Logo" height="32" width="42">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
